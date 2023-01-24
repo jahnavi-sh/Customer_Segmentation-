@@ -1,5 +1,8 @@
 #First, understanding the problem statement - 
-
+#Segmentation means grouping various entities together based on certain similar properties. Here, customer segmentation means grouping 
+#customers together based on similar features or properties as given in the dataset. 
+#This helps companies in understanding and predicting their customers’ characteristics, behaviour and needs. They can launch products or 
+#enhance features accordingly. Companies can target particular sectors for more revenue. This leads to overall market enhancement of the company.  
 
 #worflow for the project 
 #1. load customer data
