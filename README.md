@@ -3,18 +3,18 @@
 This document is written to provide aid in understanding the project.
 
 Contents of the document - 
-Understanding the problem statement 
-More about the dataset 
-Machine learning 
-Types of machine learning models with examples 
-Machine learning algorithm used for the model - K means clustering
-NumPy library 
-Pandas library 
-Scikit-learn library 
-Matplot library 
-Exploratory data analysis
-Handling missing values 
-Data visualisation - seaborn  
+1. Understanding the problem statement 
+2. More about the dataset 
+3. Machine learning 
+4. Types of machine learning models with examples 
+5. Machine learning algorithm used for the model - K means clustering
+6. NumPy library 
+7. Pandas library 
+8. Scikit-learn library 
+9. Matplot library 
+10.Exploratory data analysis
+11.Handling missing values 
+12.Data visualisation - seaborn  
 
 What is the problem statement for the machine learning algorithm ?
 Segmentation means grouping various entities together based on certain similar properties. Here, customer segmentation means grouping customers together based on similar features or properties as given in the dataset. 
