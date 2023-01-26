@@ -12,9 +12,9 @@ Contents of the document -
 7. Pandas library 
 8. Scikit-learn library 
 9. Matplot library 
-10.Exploratory data analysis
-11.Handling missing values 
-12.Data visualisation - seaborn  
+10. Exploratory data analysis
+11. Handling missing values 
+12. Data visualisation - seaborn  
 
 What is the problem statement for the machine learning algorithm ?
 
